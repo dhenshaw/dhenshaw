@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhenshaw
-- 👀 I’m interested in learning electrical engineering, C++, C# and shell scripting.
-- 🌱 I’m currently learning Linux and C/C++.
+- 👀 I’m interested in learning electrical engineering, C++, dart, flutter, C#, shell scripting and other things.
+- 🌱 I’m currently learning Linux, C/C++, and git.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
